@@ -1,6 +1,8 @@
 # Distributed-DeepLearning-CXR
 Repository of my thesis work in Computer Science Engineering @ PolitecnicoDiMilano focused on Distributed Deep Learning approaches with Chest X-Rays.
 
+- CheXpert dataset available online at https://stanfordmlgroup.github.io/competitions/chexpert/
+
 - TFFederated_coarse_grain.ipynb and TFFederated_fine_grain.ipynb notebooks for training of coarse and fine grain Federated models.
 
 - SplitLearning_launcher.ipynb notebook for training Split Learning models.
